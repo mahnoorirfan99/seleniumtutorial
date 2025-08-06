@@ -1,0 +1,7 @@
+__pycache__/
+screenshots/
+drivers/
+*.pyc
+*.log
+.env
+myvenv/
